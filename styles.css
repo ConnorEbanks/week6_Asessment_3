@@ -1,0 +1,75 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: inline-block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.job {
+	background-color: yellow;
+  }
+
+.flex-container > div {
+	background-color: red;
+	width: 300px;
+	margin: 10px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	flex-direction: row;
+  }
+
+
+  .color {
+	  width: 200px;
+	  line-height: 50px;
+	  background-color: yellow;
+  }
+ 
+
+ 
+  .place {
+	  width: 200px;
+	  line-height: 50px;
+	  background-color: yellow;
+  }
+
+
+
+  .ritual {
+	  width: 200px;
+	  line-height: 50px;
+	  background-color: yellow;
+  }
